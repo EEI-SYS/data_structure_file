@@ -1,0 +1,4 @@
+﻿  time_analysis.cpp
+C:\c++_test\Data_Structure\time_analysis\time_analysis.cpp(23,22): warning C4305: '초기화 중': '__int64'에서 'int'(으)로 잘립니다.
+C:\c++_test\Data_Structure\time_analysis\time_analysis.cpp(23,10): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  time_analysis.vcxproj -> C:\c++_test\Data_Structure\x64\Debug\time_analysis.exe
